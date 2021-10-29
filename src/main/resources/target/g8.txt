@@ -1,0 +1,640 @@
+gunshots 33
+goberned 40
+gluepots 40
+gravesen 71
+gainfull 45
+gallants 42 55 73 77
+guard’st 65
+gather’d 40 65
+german’s 39 40
+geldings 18
+glanceth 26
+guttatus 28
+gardiner 11 40 42 55 94
+gardings 46 94
+galiodin 9
+graceful 1 3 10 11 12 13 14 16 17 18 19 21 22 23 26 27 28 29 32 37 39 40 41 42 44 46 47 49 51 55 56 65 66 67 68 69 70 71 72 73 74 76 77 78 79 80 81 82 83 84 85 88 90 93 94 100
+glancing 1 5 10 11 12 13 14 16 17 18 21 23 27 28 31 34 36 37 39 40 41 42 43 44 47 48 49 50 55 56 57 59 61 65 66 67 68 69 70 71 72 76 78 79 80 84 85 93 94
+gladness 4 6 9 16 17 26 30 34 38 39 40 41 46 49 51 52 56 64 68 69 72 74 76 77 80 81 88 90 93 94
+grosbecs 18
+gullibly 35
+gelangen 63
+generous 4 7 9 10 11 12 13 14 16 18 19 20 21 23 26 27 28 30 31 37 39 40 41 42 43 44 45 48 49 50 51 54 55 56 58 60 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 89 90 92 93 94 100
+ganglion 78
+graidely 5
+gorgon’s 76
+gwenbaus 9
+gefyldan 20
+gotama’s 35
+guinness 55
+grudging 9 10 14 17 42 67 71 76 94
+gillen’s 55
+gradivus 49
+gazpacho 77
+gaitered 39 55
+gate.172 65
+garroter 12
+goulding 11 55
+genuwyne 69
+gerebant 49
+gestarum 49
+gulliver 10 73 78 82
+guanches 53
+gorgoneo 49
+gaoler’s 76
+gyratory 84
+glowworm 12 55
+gasteful 55
+gyrating 84
+gyration 55
+globemap 55
+gauntlet 39 42 55 56 65 71 80 82 84
+gattling 6
+grappled 10 17 20 30 40 47 49 69 71 77
+goffered 55
+ganictor 49
+geometry 12 13 39 40 41 45 47 49 55 56 63 73 77 79 80 83 84 88 89 95
+geometer 80
+glowered 55 72 78 94
+gregor’s 59
+gurgleth 26
+goldcurb 55
+gedruckt 63
+grouting 77
+gmunding 20
+gunner’s 60
+gatherer 28 31 41 55 78 85
+gathered 1 4 5 6 7 8 9 10 11 12 13 14 17 18 19 20 21 22 25 26 27 28 29 30 31 33 34 35 37 38 39 40 41 42 44 45 46 47 48 49 51 52 53 54 55 56 57 60 61 64 65 66 67 68 69 70 71 72 73 74 76 77 78 79 80 82 83 84 85 88 90 92 93 94 97 99
+goojerat 53
+griselda 55
+gatherum 55
+godfreys 39 83
+generate 18 45 48 63 80 84 88
+gurgling 20 26 28 33 37 40 46 55 57 68 72 74 90
+generals 5 12 31 37 39 41 49 55 65 73 75 76 80 83 97
+generall 45 98
+generale 53 65
+grizzled 1 6 10 14 21 33 34 37 39 40 41 42 49 55 57 68 71 76 77 85
+gargling 14 26
+gurnemon 91
+guibourg 12
+grumbled 3 5 6 12 18 23 27 30 34 37 39 41 55 56 57 58 66 69 70 72 76 79 94
+gregorio 53 77 79
+grammars 12 40 49 71
+gladdeth 9
+gladdest 70
+gentlman 68
+gladdens 88
+grinby’s 71
+galagars 9
+griswold 84
+genially 10 13 37 40 41 46 50 55 57 67 78
+gossiped 12 94
+gossipin 5
+grenades 12 81
+galliard 55 85
+gisserie 12
+grisette 12
+glencree 55
+gorstkin 41
+graphein 79
+giungeua 53
+ginghams 28
+giggling 5 10 19 22 27 41 51 55 56
+gallican 12
+goldenly 55
+gabbling 1 6 12 29 55 70 94
+graham’s 13 16
+gauthier 12
+galaghan 53
+gentlest 9 10 11 12 13 20 25 26 27 29 31 33 44 49 55 65 68 71 76 78 80 89 94
+gallipot 6
+graphite 86
+graphics 63
+graphicx 62 63
+grabbing 17 20 51 55 70
+galliots 40 77
+googling 70
+grooming 79
+guetaria 53
+glaciers 30 55 74 90 92
+gewisser 63
+gewissem 63
+gewissen 63
+grainger 71
+geradezu 63
+gorgeous 14 18 22 23 27 31 33 37 40 41 44 51 55 56 61 65 66 67 69 76 77 78 79 84 85 88 89 92 94 98
+geworhte 20
+grammont 49
+gamfield 68
+glauming 55
+giuglini 42 55
+glummest 5
+gambados 77
+gedachte 63
+guaranty 79
+gettings 73 83
+germanic 12 94
+germanie 9
+geworden 20 63
+gossamer 10 22 28 39 55 66 71 76 78 84
+granicus 65
+gartered 22 23
+goneness 56
+growling 3 6 12 13 14 26 27 30 33 38 39 41 46 55 57 58 60 61 68 70 71 72 76 77 78 79
+gallaher 42 55
+gutsmuth 84
+guileful 22 26 27 65 69
+goatvans 55
+growlers 55
+growlery 78
+grilling 6
+grameful 55
+guidonis 12
+goadings 40
+gangways 26
+goatfell 55
+guidable 16
+guerente 49
+gasoline 18 67 86
+garments 4 8 9 10 12 14 17 18 21 23 27 28 30 34 35 37 39 40 41 42 45 46 47 49 52 53 54 55 56 57 64 65 66 68 69 71 72 73 77 78 79 80 81 84 85 89 93 94
+godsends 92
+geranium 18 27 41 56 57 71 79 84 94
+genitive 55
+gropings 12 13 14
+greville 55
+guttural 12 27 28 37 39 40 52 53 55 72 84
+guardian 5 10 11 12 14 15 19 20 22 26 27 28 29 34 37 39 40 41 42 43 44 45 46 49 51 55 61 64 65 70 71 72 74 75 77 78 79 80 83 85 88 89 90 92 94 97
+giraldus 49 55
+gigantic 1 12 13 14 17 21 23 27 30 31 33 34 37 39 40 43 48 49 52 65 67 68 71 74 77 78 79 80 84 85 90 93 96
+guarding 6 7 10 12 13 19 20 27 31 32 38 39 40 41 46 48 51 55 56 66 71 72 77 78 79 80 83 84
+gewichte 10
+grafters 13
+glimmers 13 65 74 90
+gwineter 70
+gargoyle 55
+goveanus 49
+gasballs 55
+gramercy 9 55
+gonaguet 12
+galluses 70
+grafting 12 79
+giuliano 7
+ganges10 79
+gebracht 63
+genitals 49 55
+gestures 10 12 13 14 16 18 23 26 27 31 35 37 39 40 41 42 43 45 47 49 55 56 57 60 66 67 68 69 73 74 76 77 78 79 81 85 88 90 92
+garbling 49
+gestured 27 66
+guardava 92
+garlands 5 10 12 14 23 29 49 55 65 68 71 77 78 80 85 88
+guzerati 53
+granados 55
+grecians 65 74 90
+gehennam 98
+goldfish 3 79
+gen’rous 65
+guewilla 39
+gleamest 12
+gleameth 26 88
+gritting 37
+grittily 30
+genneral 53
+goncourt 18
+graduate 12 51 55 56 62 66 77 94
+grugeoir 12
+guidance 4 7 8 10 11 14 16 17 19 21 28 29 31 32 37 39 41 42 45 46 48 51 55 56 65 69 70 72 74 75 76 77 79 80 81 84 85 86 88 89 90 92
+gleaming 1 6 10 12 13 14 18 20 21 22 27 28 30 31 39 40 42 43 46 47 55 56 65 67 68 69 76 78 79 84 85 93
+gefunden 63
+gamehogs 55
+grinding 4 5 6 10 12 13 14 20 22 27 32 37 40 41 46 49 54 55 60 65 68 70 71 72 73 76 77 78 79 83 94
+gudgeons 38 40 60
+guernsey 40 71 81
+gunwales 40 78
+gaticara 53
+glistens 8 41
+glumglum 73
+grildrig 73
+grindeth 20 34
+grinders 10 12 27 37 77
+grindest 26
+grotrian 23
+gratifie 45
+gleicher 63
+gleichen 63 89
+gubernas 49
+garrison 6 7 9 12 32 39 40 49 55 57 60 76 78 79 83 95 99
+goblet’s 40
+greyness 31 46 47 48
+garlicks 83
+ginoquio 53
+grimiest 14
+gen’ally 27 69
+gestellt 63
+gulpings 55
+grummore 9
+g’uttons 40
+gorbunov 41
+griffins 9 40 47 72
+gargery. 14
+griffith 22 55
+gargerys 14
+gratious 98
+gratings 12 48 77 79 88
+genevese 39 74 90
+geordnet 63
+gingalin 9
+greasily 78
+greasing 12 13 27 73
+giovanni 7 44 55 77 79
+giovanna 23
+geoffrey 23
+geminato 49
+gatebell 55
+gesittan 20
+guedouze 12
+griev’st 65
+gerenian 65
+gethered 70
+greyeyed 55
+getherin 70
+grubbing 28 31 33 56 78 94
+gas’line 67
+gourmand 37 40
+guyheads 26
+guelemer 12
+gulpidge 71
+geoffroy 12
+grounded 10 12 19 40 44 45 49 53 56 64 65 69 73 79 88 89 97 98
+gnashest 26
+giacinta 10
+grumedan 49
+guenever 9
+gedanken 10 63
+gobelins 12
+gillis’s 56
+gignimur 49
+gamblers 12 13 30 35
+gaston’s 18
+giulio’s 49
+gilligan 55
+governes 45
+guaiacum 49
+gilliess 81
+governor 7 9 14 17 28 37 39 40 41 45 49 50 51 53 55 60 68 69 70 71 73 76 77 78 79 80 81 82 83 85 88 97 99
+gravitas 49
+governed 4 7 9 10 11 12 13 15 16 19 20 23 27 28 39 40 42 45 49 55 60 68 73 74 76 77 78 79 80 82 86 88 89 90 94 97
+gayeties 12 79
+goethian 89
+graciens 9
+gesperrt 63
+gesetzes 63
+gesetzen 63
+guesquin 49
+giantess 12 22 71 77
+grantees 45
+gracieux 39
+gandalin 77
+grantest 88
+gloating 1 5 12 14 17 37 40 41 44 46 51 54 55 69
+geatland 20
+ghenghis 41
+genelman 68
+grantham 55
+galvanic 12 68 71 79 84
+goethe’s 55 79
+grinning 1 3 5 10 12 13 14 21 23 26 27 30 31 39 40 41 42 44 46 50 52 55 56 58 61 64 65 68 71 72 73 76 77 78 79 84 93
+granting 12 15 21 26 39 40 41 44 45 49 51 54 65 77 79 80 81 83 92 94 97
+gebrauch 63
+gauderet 49
+guliolmi 34
+genitrix 49
+grimaces 10 12 27 44 45 47 49 68 72 73 76 79 85 92
+grimacer 12
+grimaced 12 46 55
+gambling 13 23 27 30 35 39 51 55 66 77 89
+graziers 55
+glesquin 49
+goshawks 55
+gillie’s 55
+gadzooks 55
+guisando 77
+grinnell 28
+graciosa 53
+gracious 4 6 7 9 10 11 12 14 16 18 19 20 21 23 26 27 33 36 37 38 39 40 41 44 45 49 55 56 58 61 65 66 68 69 70 71 72 73 76 77 78 79 80 81 82 85 88 89 94 98 99
+gourgaud 12
+geamator 91
+gaveston 23
+genivine 68
+grownups 55
+gazelles 55 78
+galleys. 12
+gialluta 12
+gasflame 55
+greater. 38
+greatest 4 5 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 26 27 28 29 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 53 54 55 57 58 59 60 61 65 66 67 68 69 70 71 72 73 74 76 77 78 79 80 81 82 83 84 85 88 89 90 91 92 93 94 95 96 97 98 99 100
+gateways 40 71
+godheads 65
+gardenin 5
+gardenny 40
+gardener 5 6 10 11 12 13 14 22 23 29 32 38 39 48 49 55 66 67 68 71 73 74 77 78 79 80 82 84 90 94
+geologic 46
+genochio 53
+grayness 5 56 66
+goatherd 22 49 77
+goathide 55
+godspeed 28 42 77
+gulfweed 40
+gnashing 12 22 26 39 40 41 45 55 65 74 76 79 90 92
+guadiana 77
+godgiven 55
+gumption 50 55 70 77
+giddiest 84
+gignatur 49
+gourgues 49
+gamboled 94
+glassing 10
+geraghty 55
+guilbert 79
+giveness 91
+golloped 55
+glassful 37 56 68 71 76 79
+gaudiest 40 70
+gunsmith 12 78
+gassendi 12 73
+goloshes 41 42
+guttered 17 39 41 78
+gutteral 79
+goddess. 22
+ganymede 23 65 79
+galloped 10 12 13 33 34 38 39 41 42 48 49 52 55 68 72 76 78 79 94
+guesclin 49
+gallopin 46
+gamesome 40 66
+gurdlubh 73
+greekish 9
+galloons 12 81
+greekjew 55
+garirebe 53
+goodbody 23 55
+gerousia 80
+ghoulish 72
+grogan’s 55
+garboard 81
+govement 91
+girlgold 55
+galoshes 39
+goggling 40 55
+greeteth 9
+geniuses 12 23 27 37 39 40 65 77 79 92
+graspeth 26
+grenelle 12 79
+grouping 39 55 84 93
+gen’lmen 27
+glossing 73 77
+glossily 10
+gerard’s 55
+galatine 9
+greeting 1 8 9 10 12 18 20 21 22 23 26 30 33 34 35 37 38 39 41 43 46 48 55 56 57 59 65 66 67 68 71 72 74 76 78 79 81 85 90 91 94
+giaffars 79
+golbasto 73
+gasovens 55
+galeazzo 7
+gouement 91
+granddam 55
+granddad 39
+grasping 6 10 12 14 18 21 22 26 27 28 34 37 39 40 41 43 44 45 46 47 49 51 55 56 57 60 65 67 68 71 72 74 76 77 78 79 84 90 92 93
+grandeur 5 10 11 12 16 19 27 28 29 32 39 40 41 43 44 46 49 50 51 55 65 66 68 69 70 71 73 74 76 77 78 79 81 82 84 85 89 90
+grandest 10 12 26 28 40 42 55 72 77 78 84
+galateas 77
+gosset’s 79
+grandees 29 39 49 55 73 77
+garofali 53
+gentyles 53
+gainsaid 40 43 89
+gaslight 10 21 46 55 59
+grenetat 12
+gilipa’s 65
+gomitano 53
+gen’lm’n 71
+guiliano 46
+glossary 9 20 55
+garofoli 53
+gingling 45
+glowings 26
+guessing 6 10 14 16 17 19 29 31 37 39 41 42 44 56 68 69 72 74 77 79 84 90 91 94
+grievest 88
+grieveth 9
+gegebene 63
+grandine 49
+goblin’s 10
+grandmam 27
+gonzales 53
+gonzalez 53 77
+gobineau 26
+gilippus 49
+goldring 55
+giuseppe 78
+gleaning 28 79 99
+goosegog 55
+gatsby’s 67
+gomorrah 27 40 45 48 55
+goosefat 55
+gobstuff 55
+girolamo 7
+gazetted 79
+gazettes 12 28 39 40
+grumpily 41
+gelassen 63
+getrennt 63
+grandson 7 10 12 20 22 23 33 38 39 49 51 53 55 62 65 66 68 77 78 79 83 94
+genlis’s 12
+grieving 10 11 19 20 22 37 39 41 65 67 68 69 70 72 73 76 81 88 94
+gloaming 10 12 48 55
+gnawings 32 67 79
+gnornode 20
+granmont 12
+gwiniart 9
+graffiti 26
+geronimo 53
+grandvit 44
+gaspings 40 44
+grass’ll 5
+giraffes 28 94
+gadarene 55
+giaiallo 53
+gendarme 12 79
+gondemar 49
+gliscunt 49
+giordano 23 92
+grievous 2 4 6 9 10 11 14 16 19 20 21 26 29 32 34 39 40 45 49 52 55 69 71 72 73 77 78 80 81 84 85 88 92 99
+gawain’s 9
+glo’ster 68
+galleons 79
+gratuity 12 39 79
+grunting 5 6 13 26 27 30 31 33 39 42 52 55 68 69 77 91 92
+grultrud 73
+girlhood 4 12 13 18 27 34 39 43 55 66 67 72 76 94
+gluttony 12 14 39 41 48 49 77 80 98
+gluttons 41 55 65 82
+goodlier 9
+gretel’s 38
+grenoble 12 79
+gridiron 13 14 22 49 55 60 71 76 78 94
+gripping 13 17 21 31 34 36 37 39 40 48 55 69 71 76
+grelotte 12
+glitters 10 40 49 65 77
+govenors 45
+gueaquin 49
+gipsying 10
+gentibus 49
+gatighan 53
+globular 40 42 55 84
+globules 40 55
+gibbon’s 66
+goodness 2 4 5 6 7 9 10 11 12 13 14 16 18 19 20 21 22 23 26 27 28 29 31 32 33 36 37 38 39 40 41 42 43 44 46 49 50 51 55 56 59 60 64 66 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 88 89 90 92 93 94 97 99
+gumjelly 55
+guffawed 23 37 41
+guillons 12
+goldberg 42 55
+gobblers 55
+gatepost 55
+gummidge 71 94
+gridando 53
+goldbach 39
+garnered 71
+grannett 68
+golconda 40 79
+gabinius 49
+gentians 5
+gobbling 14 52 55
+gracchus 12 45 49
+glarings 40
+gracchos 12
+guillery 12
+greedily 6 14 17 18 26 28 32 35 37 38 39 40 41 42 44 49 55 56 58 59 73 74 76 78 79 88 90
+goatskin 22 37 39
+girlanda 53
+gumboots 55
+gypsies. 79
+gustavus 81
+glorious 1 7 10 12 15 16 17 20 22 26 27 28 30 31 32 35 36 39 40 41 44 45 46 49 55 56 60 65 66 67 68 69 70 71 72 73 74 76 77 78 79 80 81 84 85 88 90 93 94 98
+gospel’s 12
+guiiiide 55
+glaucon. 80
+gloriana 55
+glaucous 28 55
+gasworks 42 48 55
+greement 91
+grapnels 40
+gertrude 12 55
+gervinus 39
+georgina 42 55
+georgius 49
+georgian 23 39 67
+georgics 12 49 65
+glorieth 88
+guilders 98
+gutierre 53 77
+glorieux 12
+glimpses 4 5 10 12 13 18 21 27 30 33 39 40 44 48 49 51 54 55 56 57 67 70 71 72 76 77 78 79 80 84 85 93 94
+glimpsed 31 55 59 69 70
+gilberts 16 19
+godelake 9
+gavroche 12
+giltspur 14
+gelatine 13 55
+graecian 45
+gondolas 12 55 79
+graeciae 65
+gossip’s 72
+goldseam 55
+george’s 6 12 17 21 27 39 40 42 48 50 55
+galind’s 9
+grimmest 17 20 94
+graithed 9
+grhahute 55
+ginochio 53
+gaieties 11 16 67 78 84
+gusciana 7
+greene’s 55
+gaumless 72
+gladsome 10 20 39 46 65 77 88 93
+ghialeme 53
+glinting 20 31 51 55 69 72
+goldlike 26
+goveming 97
+galician 53 77
+guiltily 14 67 72 79
+gruesome 13 22 29 46 55 56
+guzzling 17 37 55
+galitzin 44
+gehorcht 63
+glinteth 26
+gulistan 28
+gallowes 45
+galloway 55 72
+gevaudan 83
+gamester 11 49 73 78 79
+grossest 11 23 28 32 44 73
+grateful 4 5 6 9 10 11 12 13 14 16 17 18 19 20 21 26 27 28 29 31 32 33 35 37 38 39 40 41 44 46 49 50 51 55 56 60 61 65 66 67 68 69 70 71 72 74 76 77 78 79 80 81 83 85 90 91 92 93 94
+grijalba 77
+gloomier 39 78 85
+gloomily 1 3 12 13 14 17 21 25 26 27 37 39 40 41 50 51 54 55 56 67 71 74 76 78 90
+garganta 53
+galilean 55 82
+gratness 91
+gollancz 9
+golgotha 37
+gymnasia 80
+gingerly 13 27 30 40 48 51 56 69 94
+greenest 26 66 71 84
+greenery 5 47
+grusha’s 41
+groaning 6 9 12 13 14 22 27 32 33 37 39 41 42 46 49 55 56 59 61 65 66 67 69 70 72 73 76 78 79 80 81 85 88 91 92 94 98 99
+grewsome 20
+grimness 20 27 31 40 66 76
+gimcrack 55
+guerilla 71
+greenies 12
+greening 81
+greenish 5 12 13 27 28 31 37 39 40 41 42 46 47 48 55 61 79
+glasting 9
+gebildet 63
+gizzards 27 55
+girondin 79
+guerrier 49
+groaneth 26 88
+gaiferos 77
+gestiens 49
+grassbox 55
+gapingly 72
+gravelly 28 48 78
+grassets 83
+grimesby 21
+gruffish 71
+glaubten 63
+graveled 39
+grousing 55
+gripings 49 77
+golliwog 55
+gentiles 34 45 49 55 77 88
+glorying 17 40 45 51 54 57 65 69 88
+gentilly 12
+gentilli 53
+gentille 39 53
+grocer’s 42 50 55 67 71 79
+giailolo 53
+gioponne 53
+gradient 48 55
+grassing 55
+goodwill 6 7 10 11 16 19 21 26 37 41 43 49 55 76 77 78 81 84 95
+goodwins 21 55
+gumheavy 55
+girdling 10 28 40 77
+goodwife 85 99
+gods.261 65
+guzzlers 83
+gasogene 21
+gangrene 12 13 18 39 46
+gareth’s 9

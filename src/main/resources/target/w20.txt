@@ -1,0 +1,3 @@
+wahrheitsoperationen 63
+wahrscheinlichkeitss 63
+wahrheitsbedingungen 63

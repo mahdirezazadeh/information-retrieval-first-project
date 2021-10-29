@@ -1,0 +1,15 @@
+quadrangular 12 37 73
+quinquivocal 26
+questionless 49
+queerlooking 55
+quantitative 80
+quarterstaff 85
+quicksighted 16 79
+quadrilinear 55
+quadrillions 41
+quakerlyster 55
+quintessence 12 49 77 84
+quotedblbase 63
+questionable 12 14 16 21 26 28 29 32 40 43 49 51 65 66 76 77 78 80 85 89 92
+questionably 39 40
+questionings 26 40 47 51 60 88
