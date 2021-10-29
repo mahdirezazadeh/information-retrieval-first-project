@@ -9,7 +9,7 @@ public class Document {
     private String name;
     private String body;
 
-    public Document( String name, String body) {
+    public Document(String name, String body) {
         this.docId = lastId.incrementAndGet();
         this.name = name;
         this.body = body;

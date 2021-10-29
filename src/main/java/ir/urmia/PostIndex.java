@@ -3,9 +3,6 @@ package ir.urmia;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Objects;
-import java.util.function.Consumer;
-import java.util.function.Function;
-import java.util.function.Supplier;
 
 public class PostIndex {
     private Integer[] postIndex;
@@ -65,7 +62,6 @@ public class PostIndex {
                 j++;
             }
         }
-//        this.setPostIndex((Integer[]) res.toArray());
 
         this.postIndex = new Integer[res.size()];
 
@@ -96,7 +92,6 @@ public class PostIndex {
         this.postIndex = new Integer[res.size()];
 
         System.arraycopy(res.toArray(), 0, this.postIndex, 0, res.size());
-//        this.postIndex = (Integer[]) res.stream().collect();
         return this;
     }
 
