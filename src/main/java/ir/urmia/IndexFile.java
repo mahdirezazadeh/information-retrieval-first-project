@@ -33,6 +33,7 @@ public class IndexFile {
 //            TODO implement method
 //            addBookToFile(document);
             }
+        System.out.println(vocabs.size());
 
         System.out.println("indexing vocabs to files");
         for (Map.Entry<String, ArrayList<Integer>> set : vocabs.entrySet()) {
@@ -40,8 +41,8 @@ public class IndexFile {
             String key = set.getKey();
 
             File file = new File(absolutePathTarget + getFileName(key));
-            try {
-                boolean isCreated = file.createNewFile();
+//            try {
+//                boolean isCreated = file.createNewFile();
 
                 FileOutputStream oFile = new FileOutputStream(file, true);
 //            new BufferedWriter()
@@ -50,14 +51,15 @@ public class IndexFile {
                 for (int num : set.getValue()) {
                     res.append(" ").append(num);
                 }
+                res.append("\n");
                 writer.write(res.toString());
-                writer.write("\n");
+                writer.flush();
 
-                writer.close();
-                oFile.close();
-            } catch (Exception e) {
-                e.printStackTrace();
-            }
+//                writer.close();
+//                oFile.close();
+//            } catch (Exception e) {
+//                e.printStackTrace();
+//            }
         }
     }
 
@@ -67,7 +69,7 @@ public class IndexFile {
     }
 
     private static String getFileText(File listOfFile, String relativePath) throws IOException {
-        InputStream inputStream = MainApp.class.getResource(relativePath + listOfFile.getName())
+        InputStream inputStream = Objects.requireNonNull(MainApp.class.getResource(relativePath + listOfFile.getName()))
                 .openStream();
         String output = new String(inputStream.readAllBytes());
         inputStream.close();

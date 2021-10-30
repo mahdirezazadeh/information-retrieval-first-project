@@ -39,35 +39,64 @@ public class Search {
                     if (nextWord.equals("NOT")) {
                         nextWord = splitted[++index];
                         postIndexOfNextWord = getPostIndexOf(nextWord, absolutePathTarget);
-                        if (postIndexOfNextWord == null)
-                            continue;
+                        if (postIndexOfNextWord == null) {
+                            System.out.println("[]");
+                            return;
+                        }
                         res.and(
                                 new PostIndex(postIndexOfNextWord)
                                         .not(numberOfBooks)
                         );
                     } else {
+                        postIndexOfNextWord = getPostIndexOf(nextWord, absolutePathTarget);
+                        if (postIndexOfNextWord == null) {
+                            System.out.println("[]");
+                            return;
+                        }
                         res.and(
-                                new PostIndex(getPostIndexOf(nextWord, absolutePathTarget)));
+                                new PostIndex(postIndexOfNextWord));
                     }
                 }
                 case "OR" -> {
                     nextWord = splitted[++index];
                     if (nextWord.equals("NOT")) {
                         nextWord = splitted[++index];
+                        postIndexOfNextWord = getPostIndexOf(nextWord, absolutePathTarget);
+                        if (postIndexOfNextWord == null) {
+                            System.out.println("[]");
+                            return;
+                        }
                         res.or(
-                                new PostIndex(getPostIndexOf(nextWord, absolutePathTarget))
+                                new PostIndex(postIndexOfNextWord)
                                         .not(numberOfBooks)
                         );
                     } else {
+                        postIndexOfNextWord = getPostIndexOf(nextWord, absolutePathTarget);
+                        if (postIndexOfNextWord == null) {
+                            System.out.println("[]");
+                            return;
+                        }
                         res.or(
-                                new PostIndex(getPostIndexOf(nextWord, absolutePathTarget)));
+                                new PostIndex(postIndexOfNextWord));
                     }
                 }
                 case "NOT" -> {
                     nextWord = splitted[++index];
-                    res = new PostIndex(getPostIndexOf(nextWord, absolutePathTarget)).not(numberOfBooks);
+                    postIndexOfNextWord = getPostIndexOf(nextWord, absolutePathTarget);
+                    if (postIndexOfNextWord == null) {
+                        System.out.println("[]");
+                        return;
+                    }
+                    res = new PostIndex(postIndexOfNextWord).not(numberOfBooks);
                 }
-                default -> res = new PostIndex(getPostIndexOf(currentWord, absolutePathTarget));
+                default -> {
+                    Integer[] postIndexOfCurrentWord = getPostIndexOf(currentWord, absolutePathTarget);
+                    if (postIndexOfCurrentWord == null) {
+                        System.out.println("[]");
+                        return;
+                    }
+                    res = new PostIndex(postIndexOfCurrentWord);
+                }
             }
 
 

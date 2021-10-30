@@ -58,7 +58,7 @@ public class PostIndex {
                 res.add(postIndex1[i]);
                 i++;
             } else if (postIndex1[i] > postIndex2[j]) {
-                res.add(postIndex2[i]);
+                res.add(postIndex2[j]);
                 j++;
             }
         }
