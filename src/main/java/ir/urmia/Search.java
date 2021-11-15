@@ -127,8 +127,8 @@ public class Search {
         int j = 0;
 
         for (Integer id : postIndex
-             ) {
-            booksName[j++] = rows[id-1].split(" ")[1];
+        ) {
+            booksName[j++] = rows[id - 1].split(" ")[1];
         }
 
 
@@ -143,7 +143,7 @@ public class Search {
             FileInputStream iFile = new FileInputStream(file);
 
             String text = new String(iFile.readAllBytes());
-            String[] rows = text.replaceAll("\r","").split("\n");
+            String[] rows = text.replaceAll("\r", "").split("\n");
             for (String row : rows) {
                 String[] hash = row.split(" ");
                 if (hash[0].equals(word)) {
@@ -154,7 +154,7 @@ public class Search {
                     return postIndexOfWord;
                 }
             }
-        }catch (Exception e){
+        } catch (Exception e) {
             return null;
         }
         return null;
