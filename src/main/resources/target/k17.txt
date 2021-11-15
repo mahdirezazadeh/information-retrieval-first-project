@@ -1,2 +1,0 @@
-kombinationsregel 63
-klammerausdruckes 63
