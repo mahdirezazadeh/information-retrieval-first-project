@@ -122,21 +122,13 @@ public class Search {
 
         FileInputStream iFile = new FileInputStream(file);
         String text = new String(iFile.readAllBytes());
-        String[] rows = text.split("\n");
+        String[] rows = text.replaceAll("\r", "").split("\n");
 
         int j = 0;
 
-        for (int i = 0; i < postIndex.length;) {
-            String[] idAndName = rows[j].split(" ");
-            if(Integer.parseInt(idAndName[0]) == postIndex[i]){
-                booksName[i]= idAndName[1];
-                i++;
-                j++;
-            }else if (Integer.parseInt(idAndName[0]) < postIndex[i]){
-                j++;
-            }else {
-                i++;
-            }
+        for (Integer id : postIndex
+             ) {
+            booksName[j++] = rows[id-1].split(" ")[1];
         }
 
 
@@ -151,7 +143,7 @@ public class Search {
             FileInputStream iFile = new FileInputStream(file);
 
             String text = new String(iFile.readAllBytes());
-            String[] rows = text.split("\n");
+            String[] rows = text.replaceAll("\r","").split("\n");
             for (String row : rows) {
                 String[] hash = row.split(" ");
                 if (hash[0].equals(word)) {
